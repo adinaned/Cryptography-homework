@@ -1,1 +1,1 @@
-# Cryptography-homework
+The projects completed for the Introduction to Cryptography course in year 2, semester 2, consisted of implementing pseudo-random generators and cryptographic functions in order to understand their basic principles and their applications in security. Examples of implementations include: the Vigenere cipher (project 1), the Blum Blum Shub and Jacobi generators (project 2), LFSR (project 3), DES (project 4), the SHA-256 hash function (project 5), and the RSA encryption algorithm (project 6).
